@@ -1,0 +1,31 @@
+Maserati
+Levante S
+2017
+5
+OPTION,Color
+6
+Bianco,0
+Grigio Metallic,0
+Grigio Metallo Metallic,0
+Bianco Alpi Pearlescent,2200
+Blu Emozione Mica,925
+Champagne Metallescent,925
+OPTION,Equipment
+5
+Climate Pkg,600
+Driver Assistance Plus Pkg,3000
+Luxury Pkg,5000
+Luxury Zegna Pkg,7000
+Sport Pkg,6000
+OPTION,Braking and Traction
+2
+Brake Calipers Blue,300
+Brake Calipers Silver,400
+OPTION,Comfort and Convenience
+2
+Air Conditioning,400
+Sun Shade,450
+OPTION,Wheels
+2
+Wheels 20" Staggered Alloy,1800
+Wheels 21" Staggered Alloy,2980

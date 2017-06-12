@@ -1,0 +1,31 @@
+Mercedes-Benz
+SL550
+2009
+4
+OPTION,Color
+8
+Black,0
+Brilliant Blue Metallic,1400
+Iridium Silver Metallic,0
+Dolomite Brown Metallic,1200
+Magnetite Black Metallic,0
+Mars Red,2000
+Obsidian Black Metallic,0
+Polar White,0
+Selenite Grey Metallic ,0
+OPTION,Seats
+4
+designo Exclusive Nappa Leather,4500
+Exclusive Nappa Leather,1900
+Leather,0
+Nappa Leather,900
+OPTION,Interior
+4
+Aluminum w/Light Carbon-Grain,0
+AMG Carbon Fiber,2850
+Black Ash Wood,0
+designo Natural Bamboo,0
+OPTION,Power Moonroof
+2
+with power moonroof,2500
+without power moonroof,0

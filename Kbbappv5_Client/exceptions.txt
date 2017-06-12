@@ -1,0 +1,6 @@
+1,Automobile make is missing.
+2,Automobile model is missing.
+3,Automobile year is missing.
+4,Missing OptionSet length for Automobile in text file. 
+5,Missing Option data.
+6,Problem Saving Automotive Object in Serialization method.

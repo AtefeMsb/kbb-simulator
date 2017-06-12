@@ -1,0 +1,32 @@
+Ford Focus Wagon ZTW
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+5
+OPTION,Color
+10
+Fort Knox Gold Clearcoat Metallic,0
+Liquid Grey Clearcoat Metallic,0
+Infra-Red Clearcoat,0
+Grabber Green Clearcoat Metallic,0
+Sangria Red Clearcoat Metallic,0
+French Blue Clearcoat Metallic,0
+Twilight Blue Clearcoat Metallic,0
+CD Silver Clearcoat Metallic,0
+Pitch Black Clearcoat,0
+Cloud 9 White Clearcoat,0
+OPTION,Transmission
+2
+automatic,0
+manual,-815
+OPTION,Brakes
+3
+standard,0
+ABS,400
+ABS with Advance Trac,1625
+OPTION,Side Impact Air Bags
+2
+with airbag,350
+without airbag,0
+OPTION,Power Moonroof
+2
+with power moonroof,595
+without power moonroof,0

@@ -1,0 +1,33 @@
+Ford
+Focus Wagon ZTW
+1970
+5
+OPTION,Color
+10
+Fort Knox Gold Clearcoat Metallic,0
+Liquid Grey Clearcoat Metallic,2300
+Infra-Red Clearcoat,0
+Grabber Green Clearcoat Metallic,300
+Sangria Red Clearcoat Metallic,0
+French Blue Clearcoat Metallic,0
+Twilight Blue Clearcoat Metallic,1000
+CD Silver Clearcoat Metallic,0
+Pitch Black Clearcoat,2000
+Cloud 9 White Clearcoat,0
+OPTION,Transmission
+2
+automatic,0
+manual,-815
+OPTION,Brakes
+3
+standard,0
+ABS,1400
+ABS with Advance Trac,1625
+OPTION,Side Impact Air Bags
+2
+with airbag,350
+without airbag,0
+OPTION,Power Moonroof
+2
+with power moonroof,595
+without power moonroof,0

@@ -1,0 +1,1 @@
+2: Missing price for Automobile in text file. ---> Thu May 11 15:10:36 PDT 2017
